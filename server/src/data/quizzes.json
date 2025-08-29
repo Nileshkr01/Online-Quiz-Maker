@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8a9bf579-b42c-4b20-a693-628f96bd2234",
+    "title": "Python Basics",
+    "description": "Test your knowledge of Python fundamentals.",
+    "createdBy": "lok",
+    "createdById": "96f90e15-70e9-4641-91d0-71f04afd6ef5",
+    "createdAt": "2025-08-29T12:30:00.000Z",
+    "questions": [
+      {
+        "id": "1",
+        "text": "Which keyword is used to define a function in Python?",
+        "options": ["func", "define", "def", "lambda"],
+        "correctIndex": 2
+      },
+      {
+        "id": "2",
+        "text": "What is the output of `print(type([]))`?",
+        "options": ["<class 'dict'>", "<class 'list'>", "<class 'tuple'>", "<class 'set'>"],
+        "correctIndex": 1
+      },
+      {
+        "id": "3",
+        "text": "Which of the following is NOT a valid Python data type?",
+        "options": ["list", "set", "array", "tuple"],
+        "correctIndex": 2
+      },
+      {
+        "id": "4",
+        "text": "What is the correct file extension for Python files?",
+        "options": [".py", ".python", ".pt", ".p"],
+        "correctIndex": 0
+      },
+      {
+        "id": "5",
+        "text": "Which operator is used for exponentiation in Python?",
+        "options": ["^", "**", "exp()", "//"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
